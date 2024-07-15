@@ -1,0 +1,26 @@
+Name: WIFI: Network Speed: 41.00
+  KLETECH (0)
+  PHLOX (8)
+  FREE_WIFI (5)
+Name: KLETECH: Network Speed: 67.00
+  WIFI (4)
+  PHLOX (2)
+  FREE_WIFI (7)
+Name: PHLOX: Network Speed: 69.00
+  WIFI (4)
+  KLETECH (8)
+  FREE_WIFI (1)
+Name: FREE_WIFI: Network Speed: 64.00
+  WIFI (5)
+  KLETECH (1)
+  PHLOX (1)
+Name: RAM: Network Speed: 0.00
+  WIFI (5)
+Name: SHYAM: Network Speed: 0.00
+  WIFI (2)
+
+BS WITH MAX SPEED :PHLOX (69.00)
+distance:13 con_device_name: RAM 
+
+BS WITH MAX SPEED :PHLOX (69.00)
+distance:7 con_device_name: SHYAM 
